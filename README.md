@@ -1,10 +1,10 @@
-# Projeto Java Cadastro para Leiloes
+# Projeto Java Cadastro para Leiloes ✅
 Esse é um projeto criado para as casas de leilões em geral efetuarem cadastro dos elementos leiloados.
 
-## Capturas de tela
+## Capturas de tela 📷
 <img src="..." />
 
-## Tecnologias utilizadas 
+## Tecnologias utilizadas 💻
 - Java
 - Git Bash
 - GitHub
